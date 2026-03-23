@@ -1,0 +1,15 @@
+id: badae204-f463-466f-b116-dfcc9ca1810a
+type: state
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    56d0a6d5-4b77-4f89-ae22-7a15aba5d7e4:
+      x: 87.5
+      y: 20
+name: start
+description: Description for new-state
+start: true
+transitions:
+- target: 3082d31b-a7f8-4e82-8480-4ebad2fbf7e7
+  name: browse
